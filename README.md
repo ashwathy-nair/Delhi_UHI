@@ -20,6 +20,19 @@ Building Footprints — Delhi Open Data Portal
 3. Combined LST, NDVI, NDBI, and population layers to produce a UHI composite index to identify densily packed urban infrasture where population is the highest and has highest degree of UHI effect.  
 4. Located barren and rangelands in dense zones as potential sites for urban greening.
 
+
+<img width="1315" height="1078" alt="image" src="https://github.com/user-attachments/assets/042b9e97-9458-4961-836c-cdbc5677e1b8" />
+
+<img width="1253" height="1022" alt="image" src="https://github.com/user-attachments/assets/453a3b27-e840-40dd-81ba-dbb745f64008" />
+
+<img width="1240" height="1002" alt="image" src="https://github.com/user-attachments/assets/8e111a5f-461d-4de0-9604-91f10fb96d74" />
+
+<img width="777" height="709" alt="image" src="https://github.com/user-attachments/assets/b3db381c-8246-4f98-830a-4951db286f3d" />
+
+<img width="1252" height="1027" alt="image" src="https://github.com/user-attachments/assets/2e6db30a-9c84-48cb-b19b-1b21fb0e13fd" />
+
+
+
 ### Tools
 ArcGIS Pro, arcpy
 
